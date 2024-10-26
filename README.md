@@ -1,6 +1,6 @@
 # Multilingual Translator
 
-A web application for translating text into six languages: English, Japanese, German, Chinese, Spanish, and French.
+A web page for translating text into six languages: English, Japanese, German, Chinese, Spanish, and French.
 
 ## Features
 - User-friendly interface
